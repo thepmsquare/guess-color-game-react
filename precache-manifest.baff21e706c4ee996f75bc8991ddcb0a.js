@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a15380ebe899075ef6488179ef4f1296",
+    "revision": "123efbf3646a58b23149c951e9cd2f11",
     "url": "/guess-color-game-react/index.html"
   },
   {
