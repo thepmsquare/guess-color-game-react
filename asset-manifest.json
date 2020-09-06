@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guess-color-game-react/static/css/main.2d1558da.chunk.css",
+    "main.js": "/guess-color-game-react/static/js/main.c62fadae.chunk.js",
+    "main.js.map": "/guess-color-game-react/static/js/main.c62fadae.chunk.js.map",
+    "runtime-main.js": "/guess-color-game-react/static/js/runtime-main.d548d86c.js",
+    "runtime-main.js.map": "/guess-color-game-react/static/js/runtime-main.d548d86c.js.map",
+    "static/js/2.af6aec83.chunk.js": "/guess-color-game-react/static/js/2.af6aec83.chunk.js",
+    "static/js/2.af6aec83.chunk.js.map": "/guess-color-game-react/static/js/2.af6aec83.chunk.js.map",
+    "index.html": "/guess-color-game-react/index.html",
+    "precache-manifest.6563a4c4d638bb8402330b6c32bc07de.js": "/guess-color-game-react/precache-manifest.6563a4c4d638bb8402330b6c32bc07de.js",
+    "service-worker.js": "/guess-color-game-react/service-worker.js",
+    "static/css/main.2d1558da.chunk.css.map": "/guess-color-game-react/static/css/main.2d1558da.chunk.css.map",
+    "static/js/2.af6aec83.chunk.js.LICENSE.txt": "/guess-color-game-react/static/js/2.af6aec83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d548d86c.js",
+    "static/js/2.af6aec83.chunk.js",
+    "static/css/main.2d1558da.chunk.css",
+    "static/js/main.c62fadae.chunk.js"
+  ]
+}
